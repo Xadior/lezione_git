@@ -1,2 +1,1 @@
-creato da remoto per sincronizzazione con git fetch 
-modificato da locale
+risoluzione conflitto con meld da locale credo
