@@ -1,0 +1,1 @@
+creao da locale per prova sincronizzazione con git fetch
